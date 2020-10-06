@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: mediumturquoise;
+    background-image: url(./Assets/GABP01.JPG);
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 4em;
+    margin-left: 200px;
+}
+
+.form{
+    margin-top: 200px;
+    color: rgb(126, 2, 2);
+    font-size: 20px;
+}
